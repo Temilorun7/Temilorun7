@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Temilorun7
-- 👀 I’m interested in mobile development
+- 👀 I’m interested in Web development
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on one of my projects
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me atemi70@gmail.com
 
 <!---
